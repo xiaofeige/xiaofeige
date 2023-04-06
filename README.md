@@ -4,7 +4,7 @@
 ### Experience & Skills
 
 - 👯 [2017 ~ 2021 Tecent T9 Engineer](http://www.luffyren.club). 
-- 👯 [2022 ~ --   Alibaba P7 Engineer](http://www.luffyren.club).
+- 👯 [2021 ~ now   Alibaba P7 Engineer](http://www.luffyren.club).
 - 💬 Can speak Chinese, English. 
 - 🌱 Currently learning Go, CLR, Cloud Native 
 
