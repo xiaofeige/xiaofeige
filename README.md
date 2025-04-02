@@ -8,8 +8,5 @@
 - 💬 Can speak Chinese, English. 
 - 🌱 Currently learning Go, CLR, Cloud Native
 
-- 招聘大模型应用开发，杭州阿里钉钉团队，海量HC
-![image](https://github.com/user-attachments/assets/d34079fb-b62a-4913-805f-54da9bd84a09)
-
 
 ![](https://activity-graph.herokuapp.com/graph?username=xiaofeige&theme=github)
